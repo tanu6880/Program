@@ -1,0 +1,19 @@
+Algorithm = step by step procedure to achieve anything 
+algorithm are everywhere.
+example = how to make tea ?
+procedure :
+step 1 : boil water
+step 2 : add milk
+step 3 : add masala 
+step 4 : boil again
+step 5 : sieve tea
+step 6 : enjoy tea
+
+Search engine : like as google 
+
+Time cplexity and space complexity
+
+write efficient and elegant code in less ammount of time and less amount of memory
+
+frequency count method 
+
